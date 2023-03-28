@@ -1,3 +1,8 @@
 node_modules/
 assets/css/*
 *.zip
+dev-buildin-plugins.hbs
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
